@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a master's student at NCUT, majoring in computer science. My research interests include deep learning, spatio-temporal big data analysis, smart grid technologies, and data pre-processing. These topics reflect my passion for exploring the intersection of computer science and real-world applications, with a focus on developing practical solutions for complex problems.
+I am currently a master's student at North China University of Technology, majoring in computer science. My research interests include deep learning, spatio-temporal big data analysis, smart grid technologies, and data pre-processing. These topics reflect my passion for exploring the intersection of computer science and real-world applications, with a focus on developing practical solutions for complex problems.
